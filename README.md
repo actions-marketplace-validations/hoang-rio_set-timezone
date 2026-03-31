@@ -13,7 +13,7 @@ This action sets timezone in your runner's locale based on its OS.
 ## Example usage
 
 ```yaml
-uses: hoang-rio/set-timezone@v1.4
+uses: hoang-rio/set-timezone@v1
 with:
   timezoneLinux: "Asia/Singapore"
   timezoneMacos: "Asia/Singapore"
